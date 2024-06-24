@@ -1,5 +1,12 @@
-node_modules
 package.json
 package.lookjson 
 gulpfile
-src
+/vendor/
+/node_modules/
+/src/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
