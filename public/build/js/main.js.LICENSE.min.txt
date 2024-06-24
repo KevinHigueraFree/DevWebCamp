@@ -1,0 +1,20 @@
+//! Deshabilitar el evento
+//! en caso de tener valor id del ponente
+//! forma 2
+//! forma Kevin
+//! ifis se ejecuta por si solas y no afecta al resto del codigo
+//! mostrar etiquetas
+//! recuperar del input oculto
+//! reiniciar horas
+//! remover la clase previa
+//! renderizar en el html
+//! resaltar hora actual
+//! retornar si no tiene informacion
+//!boton de eliminar
+//!comprobar eventos tomados y quitar variable de deshabilitada
+//!deshabilitar hora previa
+//!forma 2 mas performance
+//!forma1 mala practica
+//!limpiar el html
+//!llenar el input oculto de dia
+//!reiniciar los campos ocultos y selector de horas y dia

@@ -1,0 +1,31 @@
+sb-mnjmw30771751@personal.example.com
+1234567890
+
+sb-kla5r30824470@business.example.com
+0qZ9Swk>
+
+
+ACCOUNT: sb-sxxkq28576647@business.example.com
+PASSWORD: Rn4Y8mX+
+CLIENT_ID: AYo5IxyZa1AfuCi3niDi_8J2GIQUDFE22aieRepNQ2PcJxQbdJ_HxQDn12m5hl09hjNDbqp8K1feZ1AG
+SECRET KEY: EAErmygvanDcEQuE_AyiIKD5Rq9AvUUs2sKriZTMRXZta7wTTr6SjWRYIEIwREDSq2t_j-EVpmozKd5u
+
+APPNAME: KevinDevWebCamp
+CLIENT_ID: AYo5IxyZa1AfuCi3niDi_8J2GIQUDFE22aieRepNQ2PcJxQbdJ_HxQDn12m5hl09hjNDbqp8K1feZ1AG
+SECRET: EAErmygvanDcEQuE_AyiIKD5Rq9AvUUs2sKriZTMRXZta7wTTr6SjWRYIEIwREDSq2t_j-EVpmozKd5u
+
+
+
+<script src="https://www.paypal.com/sdk/js?client-id=BAAyyI01R9XN2CpRNzOXgPaY565Sv9YmnG1Bq6SnMT4YHN4QIHkPmGhhPTTsJog8Z6G-3O-BAEUu1IJmTk&components=hosted-buttons&disable-funding=venmo&currency=MXN"></script>
+<div id="paypal-container-VE6UQR25Q2JTN"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "VE6UQR25Q2JTN",
+  }).render("#paypal-container-VE6UQR25Q2JTN")
+</script>
+
+
+
+
+EAtruH3fX8RBw9vtZ09_3juNbkUY93MTCegGTwN-9D8FWLKO23qNTQJ9_rZyx479HD1R0RH3ZiUBN6aI
+EAtruH3fX8RBw9vtZ09_3juNbkUY93MTCegGTwN-9D8FWLKO23qNTQJ9_rZyx479HD1R0RH3ZiUBN6aI
