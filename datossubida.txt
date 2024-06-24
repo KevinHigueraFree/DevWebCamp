@@ -4,6 +4,14 @@ IPv6: 2604:a880:800:10::1f:9001
 Username: 
 devwebcampkjhc
 Password: 
-35UW-j22Cp(Uuy-2Ia
+An26N(QSL2y_yz42n+
 
-db: devwebcampkjhc_db 
+db: devwebcampkjhc_db
+
+Hostname: nyc.domcloud.co
+IPv4: 104.236.24.119
+IPv6: 2604:a880:800:10::1f:9001
+Username: 
+devwebcampkjhc
+Password: 
+An26N(QSL2y_yz42n+
