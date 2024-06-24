@@ -1,12 +1,4 @@
-package.json
-package.lookjson 
-gulpfile
-/vendor/
-/node_modules/
-/src/
+node_modules/
+vendor/
 .env
-.env.local
-.env.development
-.env.test
-.env.production
-.env.staging
+.DS_Store

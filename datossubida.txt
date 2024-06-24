@@ -1,0 +1,9 @@
+Hostname: nyc.domcloud.co
+IPv4: 104.236.24.119
+IPv6: 2604:a880:800:10::1f:9001
+Username: 
+devwebcampkjhc
+Password: 
+35UW-j22Cp(Uuy-2Ia
+
+db: devwebcampkjhc_db 

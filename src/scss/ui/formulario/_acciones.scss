@@ -1,0 +1,24 @@
+@use "base/variables" as v;
+
+.acciones {
+     margin-top: 3rem;
+     display: flex;
+     justify-content: space-between;
+
+     &--centrar{
+          @extend .acciones;// se extiende el valor de la clase acciones
+          justify-content:center ;
+     }
+     &__enlace {
+          color: v.$negro;
+          font-size: 1.5rem;
+          font-weight: v.$delgada;
+          transition-property: font-size;
+          transition-duration:  0.2s;
+          transition-timing-function: ease-out;
+          &:hover {
+               font-weight: v.$regular;
+               font-size: 1.6rem;
+            }
+     }
+}

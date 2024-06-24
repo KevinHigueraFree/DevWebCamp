@@ -1,0 +1,38 @@
+@use "base/mixins" as m;
+@use "base/variables" as v;
+
+.paquetes {
+     &__grid {
+          @include m.contenedor;
+          @include m.grid(1, 3rem);
+          @include m.tablet {
+               @include m.grid(3, 3rem);
+               align-items: flex-start;
+          }
+     }
+     &__submit {
+          @include m.boton(v.$azul, v.$blanco);
+     }
+}
+
+.paquete {
+     @include m.card;
+     &:nth-child(2) {
+          order: -1;
+          @include m.tablet {
+               // order: 0;//forma 1: lo ordena a la posicion 0 de la original
+               order: unset; //forma 2: quita al alteracion anterior
+          }
+     }
+     &__lista {
+          @include m.reset-lista;
+          line-height: 2;
+     }
+     &__precio {
+          font-size: 6rem;
+          margin: 3 0 0 0;
+          font-weight: v.$black;
+          color: v.$azul;
+          text-align: center;
+     }
+}
